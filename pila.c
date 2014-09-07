@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include "pila_void.h"
+#include "pila.h"
 
 struct p_elemento {
 	void *val;
